@@ -1,2 +1,2 @@
-｜![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meetleev&show_icons=true&theme=radical) ｜ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetleev&layout=compact) ｜
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=meetleev&show_icons=true&theme=radical&hide_border=true" alt="meetleev's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetleev&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
